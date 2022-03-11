@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11416" started-at="2022-03-04T15:41:19Z" finished-at="2022-03-04T15:41:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11416" started-at="2022-03-04T15:41:19Z" finished-at="2022-03-04T15:41:30Z">
+      <class name="day7.ParallelTestExecution">
+        <test-method status="PASS" signature="f()[pri:0, instance:day7.ParallelTestExecution@2038ae61]" name="f" duration-ms="11375" started-at="2022-03-04T15:41:19Z" finished-at="2022-03-04T15:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- day7.ParallelTestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
